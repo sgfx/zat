@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    console.log( "ready!" );
+  
 
 var i=0 , lock=0 ;PM=[];
 // Replaces Jquery Toggle .. that is no longer avaiable after 1.9
@@ -94,11 +94,6 @@ $(this).html('<h2 style=display:inline >Did you know?</h2>  click me');
    
 }
  });
-
-
-   
-   
-
-
+ 
   
 });//end
